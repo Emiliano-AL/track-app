@@ -1,5 +1,6 @@
 
 .env
+.env.*
 .env.backup
 .env.production
 ###> symfony/framework-bundle ###
