@@ -1,4 +1,7 @@
 
+.env
+.env.backup
+.env.production
 ###> symfony/framework-bundle ###
 /.env.local
 /.env.local.php
